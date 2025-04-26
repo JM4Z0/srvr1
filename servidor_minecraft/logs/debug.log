@@ -3781,3 +3781,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Apr2025 04:15:04.585] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client M4Z0
 [26Apr2025 04:15:04.656] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e8112f16-27a6-3554-a4fa-3be2a6a2817a does not have a secret
 [26Apr2025 04:16:18.917] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11534, l='ServerLevel[world]', x=429.00, y=31.00, z=214.00] as it would cause deadlock
+[26Apr2025 04:19:52.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 04:19:52.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 04:20:20.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot has made the advancement [Take Aim]
+[26Apr2025 04:20:35.835] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13389, l='ServerLevel[world]', x=610.00, y=31.00, z=252.00] as it would cause deadlock
+[26Apr2025 04:20:36.101] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13398, l='ServerLevel[world]', x=611.00, y=31.00, z=50.00] as it would cause deadlock
+[26Apr2025 04:24:32.170] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14358, l='ServerLevel[world]', x=459.00, y=31.00, z=355.00] as it would cause deadlock
+[26Apr2025 04:24:51.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 04:24:51.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 04:25:03.268] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14616, l='ServerLevel[world]', x=539.00, y=31.00, z=387.00] as it would cause deadlock
+[26Apr2025 04:25:38.016] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14933, l='ServerLevel[world]', x=436.00, y=31.00, z=418.00] as it would cause deadlock
+[26Apr2025 04:25:38.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot has made the advancement [Those Were the Days]
+[26Apr2025 04:26:31.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot was slain by Piglin Brute
+[26Apr2025 04:27:20.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gglancelot lost connection: Disconnected
+[26Apr2025 04:27:20.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot left the game
+[26Apr2025 04:27:20.367] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of gglancelot
+[26Apr2025 04:27:20.367] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gglancelot
