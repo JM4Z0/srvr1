@@ -708,7 +708,9 @@
     "criteria": {
       "cooked_porkchop": "2025-04-25 22:57:55 +0000",
       "cooked_mutton": "2025-04-25 22:47:28 +0000",
-      "apple": "2025-04-25 22:43:15 +0000"
+      "apple": "2025-04-25 22:43:15 +0000",
+      "pumpkin_pie": "2025-04-26 04:01:44 +0000",
+      "bread": "2025-04-26 04:07:56 +0000"
     },
     "done": false
   },
@@ -744,6 +746,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-26 04:06:56 +0000",
+      "minecraft:spider": "2025-04-26 04:04:04 +0000",
       "minecraft:creeper": "2025-04-26 03:07:49 +0000",
       "minecraft:enderman": "2025-04-25 22:58:53 +0000",
       "minecraft:zombie": "2025-04-26 03:19:43 +0000"
@@ -1488,6 +1492,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-26 03:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-26 03:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-26 03:35:04 +0000"
@@ -1506,18 +1522,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-26 03:33:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-04-26 03:34:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-26 03:37:54 +0000"
@@ -1527,6 +1531,206 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-26 03:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-26 03:42:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-26 03:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-26 03:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-26 03:50:12 +0000"
+    },
+    "done": true
+  },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-04-26 03:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-26 03:54:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-26 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-26 04:09:31 +0000",
+      "minecraft:nether_wastes": "2025-04-26 04:10:56 +0000",
+      "minecraft:soul_sand_valley": "2025-04-26 04:05:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-04-26 04:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-26 04:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-26 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-26 04:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-26 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-26 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-26 04:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-26 04:11:39 +0000"
     },
     "done": true
   },

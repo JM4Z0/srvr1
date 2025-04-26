@@ -25,6 +25,7 @@
       "minecraft:dripstone_caves": "2025-04-26 02:43:56 +0000",
       "minecraft:forest": "2025-04-26 01:54:43 +0000",
       "minecraft:ice_spikes": "2025-04-26 03:38:07 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-26 03:43:52 +0000",
       "minecraft:plains": "2025-04-26 01:50:34 +0000"
     },
     "done": false
@@ -550,7 +551,8 @@
       "baked_potato": "2025-04-26 02:28:22 +0000",
       "apple": "2025-04-26 02:39:02 +0000",
       "potato": "2025-04-26 02:35:47 +0000",
-      "bread": "2025-04-26 02:03:19 +0000"
+      "bread": "2025-04-26 02:03:19 +0000",
+      "carrot": "2025-04-26 03:44:38 +0000"
     },
     "done": false
   },
@@ -1628,15 +1630,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-26 03:39:30 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-04-26 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
     },
     "done": true
   },
@@ -1649,6 +1669,18 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-26 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-26 03:47:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
     },
     "done": true
   },
@@ -1670,15 +1702,63 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-26 03:39:30 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-26 03:39:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
     },
     "done": true
   },
@@ -1700,9 +1780,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-26 03:47:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-04-26 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-26 03:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-26 03:44:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
     },
     "done": true
   },
@@ -1718,15 +1846,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-26 03:39:30 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-26 03:40:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-26 03:46:55 +0000"
     },
     "done": true
   },
