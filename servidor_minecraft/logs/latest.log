@@ -178,3 +178,33 @@ Missing minecraft:entity_type:
 [26Apr2025 01:57:09.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp has made the advancement [Stone Age]
 [26Apr2025 01:59:03.616] [ForkJoinPool.commonPool-worker-4/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 01:59 | perrohp: 54, 67, -4
 [26Apr2025 01:59:03.644] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 01:59 | perrohp: 54, 67, -4
+[26Apr2025 01:59:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp has made the advancement [Getting an Upgrade]
+[26Apr2025 01:59:50.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4Z0 moved too quickly! 1.0510776245440283,-2.5143294551172772,-9.80241105645365
+[26Apr2025 02:00:32.198] [ForkJoinPool.commonPool-worker-5/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 02:00 | M4Z0: xaero-waypoint:pipi:P:121:64:379:4:false:0:Internal-overworld-waypoints
+[26Apr2025 02:00:32.198] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 02:00 | M4Z0: xaero-waypoint:pipi:P:121:64:379:4:false:0:Internal-overworld-waypoints
+[26Apr2025 02:03:51.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp has made the advancement [Sweet Dreams]
+[26Apr2025 02:05:20.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4bdd8462-6e27-3524-b428-f9a8c6b6c7cf timed out
+[26Apr2025 02:05:20.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player perrohp
+[26Apr2025 02:05:20.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to perrohp
+[26Apr2025 02:05:39.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: perrohp lost connection: Disconnected
+[26Apr2025 02:05:39.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp left the game
+[26Apr2025 02:05:39.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client perrohp
+[26Apr2025 02:05:50.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: perrohp[/100.64.5.40:60054] logged in with entity id 7935 at (41.22552966882772, 73.0, 342.69999998807907)
+[26Apr2025 02:05:50.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp joined the game
+[26Apr2025 02:05:50.591] [Server thread/INFO] [Jade/]: Syncing config to perrohp (4bdd8462-6e27-3524-b428-f9a8c6b6c7cf)
+[26Apr2025 02:05:50.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of perrohp (18)
+[26Apr2025 02:05:50.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to perrohp
+[26Apr2025 02:05:51.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4bdd8462-6e27-3524-b428-f9a8c6b6c7cf
+[26Apr2025 02:05:52.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4bdd8462-6e27-3524-b428-f9a8c6b6c7cf
+[26Apr2025 02:05:52.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player perrohp (4bdd8462-6e27-3524-b428-f9a8c6b6c7cf) successfully connected to voice chat
+[26Apr2025 02:06:39.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30125b46[id=<null>,name=elyxdev,properties={},legacy=false] (/100.113.222.78:48215) lost connection: Disconnected
+[26Apr2025 02:09:08.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elyxdev[/100.113.222.78:48286] logged in with entity id 9848 at (-489.0887480326757, 63.0, 177.20505798235618)
+[26Apr2025 02:09:08.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elyxdev joined the game
+[26Apr2025 02:09:08.202] [Server thread/INFO] [Jade/]: Syncing config to elyxdev (cabd2470-5f39-3704-b0d2-16f4468f9346)
+[26Apr2025 02:09:10.071] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elyxdev (18)
+[26Apr2025 02:09:10.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elyxdev
+[26Apr2025 02:09:15.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cabd2470-5f39-3704-b0d2-16f4468f9346
+[26Apr2025 02:09:16.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cabd2470-5f39-3704-b0d2-16f4468f9346
+[26Apr2025 02:09:16.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elyxdev (cabd2470-5f39-3704-b0d2-16f4468f9346) successfully connected to voice chat
+[26Apr2025 02:09:48.547] [ForkJoinPool.commonPool-worker-6/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 02:09 | elyxdev: Sí era el sanity el mod bug?
+[26Apr2025 02:09:48.548] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 02:09 | elyxdev: Sí era el sanity el mod bug?
