@@ -3974,3 +3974,40 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 01:23:19.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp has made the advancement [We Need to Go Deeper]
 [27Apr2025 01:23:33.074] [ForkJoinPool.commonPool-worker-4/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 01:23 | gglancelot: xaero-waypoint:tines que tanes:D:493:38:240:0:false:0:Internal-the-nether-waypoints
 [27Apr2025 01:23:33.075] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 01:23 | gglancelot: xaero-waypoint:tines que tanes:D:493:38:240:0:false:0:Internal-the-nether-waypoints
+[27Apr2025 01:24:14.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 01:24:14.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 01:24:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4Z0 has made the advancement [Fetch Me Their Souls!]
+[27Apr2025 01:25:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4Z0 has made the advancement [Nightmare Fuel]
+[27Apr2025 01:25:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: perrohp has made the advancement [Nightmare Fuel]
+[27Apr2025 01:25:36.928] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Apr2025 01:25:36.929] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Apr2025 01:25:36.929] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Apr2025 01:25:36.929] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Apr2025 01:25:36.930] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:36.932] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Apr2025 01:25:37.140] [Worker-Main-3/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Apr2025 01:25:37.142] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Apr2025 01:25:37.143] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Apr2025 01:27:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot was slain by Crimson Mosquito
+[27Apr2025 01:27:25.358] [ForkJoinPool.commonPool-worker-5/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 01:27 | M4Z0: very guf
+[27Apr2025 01:27:25.359] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 01:27 | M4Z0: very guf
+[27Apr2025 01:27:40.411] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[27Apr2025 01:29:02.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot was slain by Crimson Mosquito
+[27Apr2025 01:29:05.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gglancelot lost connection: Disconnected
+[27Apr2025 01:29:05.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gglancelot left the game
+[27Apr2025 01:29:05.902] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of gglancelot
+[27Apr2025 01:29:05.904] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gglancelot
+[27Apr2025 01:29:14.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 01:29:14.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 01:29:19.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4Z0 was slain by Man From The Fog
+[27Apr2025 01:32:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4Z0 was slain by Man From The Fog

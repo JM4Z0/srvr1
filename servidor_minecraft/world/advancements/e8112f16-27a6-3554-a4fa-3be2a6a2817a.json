@@ -2241,6 +2241,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-27 01:28:12 +0000",
       "minecraft:nether_wastes": "2025-04-26 04:07:33 +0000",
       "minecraft:soul_sand_valley": "2025-04-26 04:05:04 +0000"
     },
@@ -2339,6 +2340,18 @@
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-04-27 00:55:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-27 01:25:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-04-27 01:24:44 +0000"
     },
     "done": true
   },
