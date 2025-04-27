@@ -21,11 +21,13 @@
     "criteria": {
       "minecraft:taiga": "2025-04-25 00:57:27 +0000",
       "minecraft:frozen_river": "2025-04-26 03:38:35 +0000",
+      "minecraft:windswept_hills": "2025-04-27 01:02:00 +0000",
       "minecraft:river": "2025-04-25 22:46:31 +0000",
       "minecraft:snowy_plains": "2025-04-26 03:38:38 +0000",
       "minecraft:dripstone_caves": "2025-04-26 02:42:25 +0000",
       "minecraft:forest": "2025-04-25 00:53:57 +0000",
       "minecraft:ice_spikes": "2025-04-26 03:38:06 +0000",
+      "minecraft:snowy_beach": "2025-04-27 01:05:32 +0000",
       "minecraft:windswept_gravelly_hills": "2025-04-26 03:44:28 +0000",
       "minecraft:plains": "2025-04-25 00:53:00 +0000"
     },
@@ -531,6 +533,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-27 00:16:18 +0000",
       "sweet_berries": "2025-04-25 01:04:01 +0000",
       "baked_potato": "2025-04-26 02:58:40 +0000",
       "mutton": "2025-04-25 22:39:43 +0000",
@@ -554,7 +557,10 @@
     "criteria": {
       "minecraft:pillager": "2025-04-25 22:48:02 +0000",
       "minecraft:skeleton": "2025-04-25 22:39:25 +0000",
+      "minecraft:spider": "2025-04-27 01:05:50 +0000",
       "minecraft:creeper": "2025-04-26 03:04:43 +0000",
+      "minecraft:piglin": "2025-04-27 00:25:17 +0000",
+      "minecraft:stray": "2025-04-27 01:04:51 +0000",
       "minecraft:zombie": "2025-04-25 22:56:55 +0000"
     },
     "done": false
@@ -2255,6 +2261,84 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-26 04:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 00:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 00:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-27 00:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-27 00:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-04-27 00:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-04-27 00:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-04-27 00:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-27 00:45:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-04-27 00:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 00:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-27 00:48:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-04-27 00:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 00:48:03 +0000"
     },
     "done": true
   },
