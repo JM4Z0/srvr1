@@ -2215,12 +2215,11 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-26 04:07:33 +0000",
-      "minecraft:soul_sand_valley": "2025-04-26 04:05:04 +0000"
+      "lava_bucket": "2025-04-26 04:00:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -2228,21 +2227,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-04-26 04:09:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-26 04:00:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-26 04:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-26 04:07:33 +0000",
+      "minecraft:soul_sand_valley": "2025-04-26 04:05:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-26 04:09:07 +0000"
     },
     "done": true
   },
